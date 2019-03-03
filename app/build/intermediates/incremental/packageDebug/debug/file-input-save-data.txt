@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 04 00:27:03 IST 2019
+0.baseType=DIRECTORY
+0.base=/media/hiccup/WORK/FUN/LocateMe/LocateMe/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

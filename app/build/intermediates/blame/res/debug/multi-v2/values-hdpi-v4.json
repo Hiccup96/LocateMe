@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hiccup/WORK/FUN/sms-parsing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/hiccup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/36a472d59d9f952e1075dab2aafae342/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/hiccup/WORK/FUN/LocateMe/LocateMe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/hiccup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/36a472d59d9f952e1075dab2aafae342/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

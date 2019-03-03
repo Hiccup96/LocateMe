@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/hiccup/WORK/FUN/LocateMe/LocateMe/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/hiccup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/36a472d59d9f952e1075dab2aafae342/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/hiccup/WORK/FUN/sms-parsing/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/hiccup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/36a472d59d9f952e1075dab2aafae342/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

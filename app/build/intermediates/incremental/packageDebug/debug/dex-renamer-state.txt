@@ -1,0 +1,4 @@
+#Mon Mar 04 00:27:03 IST 2019
+base.0=/media/hiccup/WORK/FUN/LocateMe/LocateMe/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
